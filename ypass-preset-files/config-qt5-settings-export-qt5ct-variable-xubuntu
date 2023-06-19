@@ -1,0 +1,1 @@
+sudo sed -i -e 's/QT_QPA_PLATFORMTHEME=gtk2/QT_QPA_PLATFORMTHEME=qt5ct/g' /etc/X11/Xsession.d/56xubuntu-session

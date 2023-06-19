@@ -1,0 +1,6 @@
+sudo apt install -y sassc optipng inkscape libglib2.0-dev-bin
+git clone https://github.com/vinceliuice/Mojave-gtk-theme.git ~/Downloads/Mojave-gtk-theme
+chmod +x ~/Downloads/Mojave-gtk-theme/install.sh
+~/Downloads/Mojave-gtk-theme/install.sh --name Mojave-FP
+sudo ~/Downloads/Mojave-gtk-theme/install.sh
+rm -rf ~/Downloads/Mojave-gtk-theme

@@ -1,0 +1,1 @@
+sudo sh -c "echo 'export QT_QPA_PLATFORMTHEME=qt5ct' >> /etc/environment"

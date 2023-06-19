@@ -1,0 +1,6 @@
+sudo apt install -y flatpak
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+echo ""
+echo "Before installing any Flatpak App, it is necessary to restart your system. If you want to do it now, no problem, just cancel the next process. After rebooting, run this setup again and you will be able to resume from this point on."
+echo ""
+read -rsn1 -p "Press any key to continue."; echo ""

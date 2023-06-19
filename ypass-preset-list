@@ -1,0 +1,40 @@
+Config - Disable problem reporting (Apport)|config-disable-apport
+Config - Update system|config-update-system
+Install - Brave Browser|install-brave-browser
+Install - Breeze Cursor Theme|install-breeze-cursor-theme
+Config - Set default cursor theme|config-set-default-cursor-theme
+Install - Build Essential|install-build-essential
+Install - Cups PDF|install-cups-pdf
+Config - Fix bluetooth issues (for Xubuntu only)|config-fix-bluetooh-issues-xubuntu
+Install - Flameshot|install-flameshot
+Install - Flatpak|install-flatpak
+Install - Flatpak App - AnyDesk|install-flatpak-app-anydesk
+Install - Flatpak App - Flatseal|install-flatpak-app-flatseal
+Install - Flatpak App - Ungoogled Chromium|install-flatpak-app-ungoogled-chromium
+Install - GIMP|install-gimp
+Install - Git|install-git
+Install - GoldenDict|install-goldendict
+Install - Firewall (gufw)|install-gufw
+Install - LibreOffice Style Breeze|install-libreoffice-style-breeze
+Install - Mojave Theme (by vinceliuice)|install-mojave-theme
+Install - Qogir Theme (by vinceliuice)|install-qogir-theme
+Install - Papirus Icon Theme|install-papirus-icon-theme
+Install - Papirus Icon Theme for Flatpak Apps|install-papirus-icon-theme-flatpak
+Config - Flatpak Config - Permission to access Themes and Icons|config-flatpak-config-permission-access-themes-icons
+Config - Flatpak Config - Set default GTK theme to Mojave-FP-Dark-Solid|config-flatpak-config-set-default-gtk-theme-mojave-fp-dark-solid
+Config - Flatpak Config - Set default GTK theme to Qogir-FP-Dark|config-flatpak-config-set-default-gtk-theme-qogir-fp-dark
+Config - Flatpak Config - Set default icon theme to Papirus-FP-Dark|config-flatpak-config-set-default-icon-theme-papirus-fp-dark
+Install - Qt5 Settings|install-qt5-settings
+Config - Qt5 Settings - Export qt5ct variable to /etc/environment (for Ubuntu only)|config-qt5-settings-export-qt5ct-variable-ubuntu
+Config - Qt5 Settings - Export qt5ct variable to /etc/X11/Xsession.d/56xubuntu-session (for Xubuntu only)|config-qt5-settings-export-qt5ct-variable-xubuntu
+Config - Show hidden entries on session startup|config-show-hidden-entries-on-session-startup
+Install - Signal|install-signal
+Install - SMPlayer|install-smplayer
+Install - Synapse|install-synapse
+Uninstall - Thunderbird|uninstall-thunderbird
+Install - uGet|install-uget
+Install - VSCodium|install-vscodium
+Install - Tool to simulate/generate X11 keyboard/mouse input events (xdotool)|install-xdotool
+Install - Global menu for XFCE panel|install-xfce4-appmenu-plugin
+Config - Global menu for XFCE panel settings|config-xfce4-appmenu-plugin-settings
+Install - Install Xubuntu Restricted Addons|install-xubuntu-restricted-addons

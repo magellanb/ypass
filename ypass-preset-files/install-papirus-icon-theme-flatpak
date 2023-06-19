@@ -1,0 +1,6 @@
+wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.icons" sh -P ~/Downloads/
+mv ~/.icons/ePapirus ~/.icons/ePapirus-FP
+mv ~/.icons/ePapirus-Dark ~/.icons/ePapirus-FP-Dark
+mv ~/.icons/Papirus ~/.icons/Papirus-FP
+mv ~/.icons/Papirus-Dark ~/.icons/Papirus-FP-Dark
+mv ~/.icons/Papirus-Light ~/.icons/Papirus-FP-Light

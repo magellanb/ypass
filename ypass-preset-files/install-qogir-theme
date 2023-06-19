@@ -1,0 +1,5 @@
+git clone https://github.com/vinceliuice/Qogir-theme.git ~/Downloads/Qogir-theme
+chmod +x ~/Downloads/Qogir-theme/install.sh
+~/Downloads/Qogir-theme/install.sh --name Qogir-FP --tweaks square
+sudo ~/Downloads/Qogir-theme/install.sh --tweaks square
+rm -rf ~/Downloads/Qogir-theme

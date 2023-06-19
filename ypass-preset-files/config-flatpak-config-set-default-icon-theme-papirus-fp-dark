@@ -1,0 +1,1 @@
+sudo flatpak override --env=ICON_THEME=Papirus-FP-Dark

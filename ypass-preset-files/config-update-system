@@ -1,0 +1,29 @@
+clear
+echo ""
+echo "The following processes must be executed as root. Type in your password to proceed."
+echo ""
+sudo clear
+echo ""
+echo "   Cleaning stuff..."
+echo ""
+sudo apt install -f
+sudo apt autoclean
+sudo apt clean
+sudo apt autoremove
+echo ""
+echo "   Unlocking stuff..."
+echo ""
+sudo fuser -vki /var/lib/dpkg/lock
+sudo dpkg --configure -a
+sudo fuser -v /var/cache/debconf/config.dat
+sudo rm -vrf /var/lib/apt/lists/*
+echo ""
+echo "   Updating and upgrading..."
+echo ""
+sudo apt update
+sudo apt full-upgrade
+sudo apt install -f
+echo ""
+echo "For changes to take effect, it is necessary to restart your system. If you want to do it now, no problem, just cancel the next process. After rebooting, run this setup again and you will be able to resume from this point on."
+echo ""
+read -rsn1 -p "Press any key to continue."; echo ""
