@@ -65,7 +65,7 @@ Then, the script will run that command. Simple like that!
 
 Then, follow the prompts on your screen.
 
-You can create your own preset files. To help you with that, there is a spreadsheet (a LibreOffice Calc file called 'ypass-presets-creator.ods') that you can use to automate the process. When you open the file, you will see that it is pretty self-explanatory. Once you have everything already filled in the spreadsheet, run the macro available in it: mcrCreatePreses. By the way, feel free to audit the code of the macros before you run them. The same goes for this script itself.
+You can create your own preset files. To help you with that, there is a spreadsheet (a LibreOffice Calc file called 'ypass-presets-creator.ods') that you can use to automate the process. When you open the file, you will see that it is pretty self-explanatory. Once you have everything already filled in the spreadsheet, run the macro available in it: mcrCreatePresets. By the way, feel free to audit the code of the macros before you run them. The same goes for this script itself.
 ## Author
 
 - [@magellanb](https://www.github.com/magellanb)
